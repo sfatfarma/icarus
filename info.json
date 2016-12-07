@@ -4,10 +4,10 @@
     "homepage" : "https://codecanyon.net/user/kisded/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/icarus/master/icarus-page-redirect.zip",
     
-    "version" : "1.0",
+    "version" : "1.1",
     "requires" : "2.7",
-    "tested" : "4.6",
-    "last_updated" : "2016-11-29",
+    "tested" : "4.7",
+    "last_updated" : "2016-12-08",
     
     "author" : "kisded",
     "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
@@ -15,6 +15,6 @@
     "sections" : 
     {
         "description" : "<p>This plugin automatically redirects pages (with 301 redirect), by the rules you set in the plugin control panel. You can control every aspect of this plugin, using it's control panel.</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-11-11</strong> <ul> <li>First version released!</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-12-07</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.1 Release Date 2016-12-08</strong> <ul> <li>Added Redirect If AdBlock Detected Rule!</li><li>Minor fixes and enhacements</li> </ul>"
     }
 }
