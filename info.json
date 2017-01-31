@@ -4,10 +4,10 @@
     "homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/icarus/master/icarus-page-redirect.zip",
     
-    "version" : "1.2",
+    "version" : "1.3",
     "requires" : "2.7",
     "tested" : "4.7",
-    "last_updated" : "2017-01-11",
+    "last_updated" : "2017-01-31",
     
     "author" : "CodeRevolution",
     "author_homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
@@ -15,6 +15,6 @@
     "sections" : 
     {
         "description" : "<p>This plugin automatically redirects pages (with 301 redirect), by the rules you set in the plugin control panel. You can control every aspect of this plugin, using it's control panel.</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-12-07</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.1 Release Date 2016-12-08</strong> <ul> <li>Added Redirect If AdBlock Detected Rule!</li><li>Minor fixes and enhacements</li> </ul><strong>Version 1.2 Release Date 2017-01-11</strong> <ul> <li>Option to auto add trashed/drafted post links to redirect rules!</li><li>Option to auto add redirect rule when post permalink changes!</li><li>Option to redirect all non-logged in users to the login page (allow on your webpage only registered and logged in users)!</li><li>Option to automatically delete logs in specified intervals</li><li>Minor fixes and enhacements</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-12-07</strong> <ul> <li>First version released!</li> </ul><strong>Version 1.1 Release Date 2016-12-08</strong> <ul> <li>Added Redirect If AdBlock Detected Rule!</li><li>Minor fixes and enhacements</li> </ul><strong>Version 1.2 Release Date 2017-01-11</strong> <ul> <li>Option to auto add trashed/drafted post links to redirect rules!</li><li>Option to auto add redirect rule when post permalink changes!</li><li>Option to redirect all non-logged in users to the login page (allow on your webpage only registered and logged in users)!</li><li>Option to automatically delete logs in specified intervals</li><li>Minor fixes and enhacements</li> </ul><strong>Version 1.3 Release Date 2017-01-31</strong> <ul> <li>Major performance improvement for some WordPress installations. Now everything should run smoothly!</li><li>Minor fixes and enhacements</li> </ul>"
     }
 }
